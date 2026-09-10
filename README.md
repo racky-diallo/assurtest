@@ -1,4 +1,4 @@
-# assurtest🛡️
+# AssurTest🛡️
 
 Suite d'automatisation de tests end-to-end avec **Playwright** et **Cucumber.js** (BDD/Gherkin), appliquée à un portail de gestion de contrats d'assurance.
 
@@ -21,7 +21,7 @@ Projet réalisé dans le cadre du Titre Professionnel **Testeur Logiciels** (ENI
 ## 📁 Architecture — Page Object Model
 
 ```
-projet-assurtest/
+assurtest/
 ├── features/          # 3 fichiers .feature (Gherkin, en français)
 │   ├── authentification.feature
 │   ├── catalogue.feature
