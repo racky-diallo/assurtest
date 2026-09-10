@@ -1,4 +1,4 @@
-# AssurTest 🛡️
+# assurtest🛡️
 
 Suite d'automatisation de tests end-to-end avec **Playwright** et **Cucumber.js** (BDD/Gherkin), appliquée à un portail de gestion de contrats d'assurance.
 
