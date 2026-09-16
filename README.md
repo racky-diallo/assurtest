@@ -2,7 +2,7 @@
 
 Suite d'automatisation de tests end-to-end avec **Playwright** et **Cucumber.js** (BDD/Gherkin), appliquée à un portail de gestion de contrats d'assurance.
 
-Projet réalisé dans le cadre du Titre Professionnel **Testeur Logiciels** (ENI) — module Automatisation des tests.
+Projet personnel conçu et développé en autonomie.
 
 ## ✅ Résultats
 
@@ -56,4 +56,4 @@ Le rapport HTML est généré à la racine : `rapport-execution.html`
 ## 👩‍💻 Auteure
 
 **Racky Diallo** — Testeuse Logicielle certifiée ISTQB Foundation v4.0
-[LinkedIn](https://www.linkedin.com/in/racky-diallo-b6a453173/) · Nantes, France
+[LinkedIn](https://www.linkedin.com/in/racky-diallo) · Nantes, France
